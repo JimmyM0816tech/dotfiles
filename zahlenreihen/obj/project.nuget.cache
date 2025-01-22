@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEfz/LhDGepIZl96K33rE7wxQmRJEmQqoDQY9lTijuzodsxCN9BJooRI0J/x5rnoJze1oRuj0m3wYR1enuAwyA==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/zahlenreihen.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

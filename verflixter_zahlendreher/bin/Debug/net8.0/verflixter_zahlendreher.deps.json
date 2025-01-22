@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "verflixter_zahlendreher/1.0.0": {
+        "runtime": {
+          "verflixter_zahlendreher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verflixter_zahlendreher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

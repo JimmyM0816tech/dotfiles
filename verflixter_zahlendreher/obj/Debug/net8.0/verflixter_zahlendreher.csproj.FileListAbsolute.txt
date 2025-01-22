@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/bin/Debug/net8.0/verflixter_zahlendreher
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/bin/Debug/net8.0/verflixter_zahlendreher.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/bin/Debug/net8.0/verflixter_zahlendreher.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/bin/Debug/net8.0/verflixter_zahlendreher.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/bin/Debug/net8.0/verflixter_zahlendreher.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/refint/verflixter_zahlendreher.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/verflixter_zahlendreher.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/verflixter_zahlendreher/obj/Debug/net8.0/ref/verflixter_zahlendreher.dll

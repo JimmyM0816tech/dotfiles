@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/bin/Debug/net8.0/zahlenreihen
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/bin/Debug/net8.0/zahlenreihen.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/bin/Debug/net8.0/zahlenreihen.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/bin/Debug/net8.0/zahlenreihen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/bin/Debug/net8.0/zahlenreihen.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/refint/zahlenreihen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/zahlenreihen.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/zahlenreihen/obj/Debug/net8.0/ref/zahlenreihen.dll
