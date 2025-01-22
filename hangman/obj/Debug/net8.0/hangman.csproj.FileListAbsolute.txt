@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/bin/Debug/net8.0/hangman
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/bin/Debug/net8.0/hangman.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/bin/Debug/net8.0/hangman.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/bin/Debug/net8.0/hangman.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/bin/Debug/net8.0/hangman.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/refint/hangman.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/hangman.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/hangman/obj/Debug/net8.0/ref/hangman.dll

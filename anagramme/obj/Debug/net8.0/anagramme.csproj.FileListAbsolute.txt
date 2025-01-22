@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/bin/Debug/net8.0/anagramme
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/bin/Debug/net8.0/anagramme.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/bin/Debug/net8.0/anagramme.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/bin/Debug/net8.0/anagramme.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/bin/Debug/net8.0/anagramme.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/refint/anagramme.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/anagramme.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/obj/Debug/net8.0/ref/anagramme.dll

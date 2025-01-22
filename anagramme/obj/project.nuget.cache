@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwbsZqlxXKT/wJvKp+I7JG7xUAmyelnotmZSvamrkdxsPvM7U26Ch9if2zZ4p8dDcdDpp7GDmAlt23Mt8YzFKw==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/anagramme/anagramme.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4hMB/T9WKeIWSksMAoaK/wIyqQ3BDsUyYTU9PHDQNPzfjz9keIB8qVw5GL3jydXYqBTmJdOUsG5u9O48lF8ZQ==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/hangman/hangman.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Urz26pAMDT+Qb5KJjgAyyWWxE+AtZF7X4LRj2aLQmg7Wwgl8C3DvvMioqruB953Khi52LKI6jnLgTsu24FE/9A==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bubble_sort.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

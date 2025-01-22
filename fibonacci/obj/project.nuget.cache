@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jld+0ED8DDtmWmnSeonDiQGZO8qmT4j+07GRZoCpbFHfQYUNlUkXtu4sCD6NxjZr/A7KRRAu+8WzFQdfUWGPgA==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/fibonacci.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

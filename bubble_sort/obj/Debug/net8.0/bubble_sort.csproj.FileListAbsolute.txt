@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bin/Debug/net8.0/bubble_sort
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bin/Debug/net8.0/bubble_sort.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bin/Debug/net8.0/bubble_sort.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bin/Debug/net8.0/bubble_sort.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/bin/Debug/net8.0/bubble_sort.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/refint/bubble_sort.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/bubble_sort.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/bubble_sort/obj/Debug/net8.0/ref/bubble_sort.dll

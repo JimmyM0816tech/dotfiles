@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/bin/Debug/net8.0/fibonacci
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/bin/Debug/net8.0/fibonacci.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/bin/Debug/net8.0/fibonacci.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/bin/Debug/net8.0/fibonacci.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/bin/Debug/net8.0/fibonacci.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/refint/fibonacci.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/fibonacci.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/fibonacci/obj/Debug/net8.0/ref/fibonacci.dll
