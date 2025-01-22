@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/bin/Debug/net8.0/Tick_Trick_Track
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/bin/Debug/net8.0/Tick_Trick_Track.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/bin/Debug/net8.0/Tick_Trick_Track.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/bin/Debug/net8.0/Tick_Trick_Track.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/bin/Debug/net8.0/Tick_Trick_Track.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/refint/Tick_Trick_Track.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/Tick_Trick_Track.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/obj/Debug/net8.0/ref/Tick_Trick_Track.dll

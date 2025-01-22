@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/bin/Debug/net8.0/qwardratzahlen
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/bin/Debug/net8.0/qwardratzahlen.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/bin/Debug/net8.0/qwardratzahlen.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/bin/Debug/net8.0/qwardratzahlen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/bin/Debug/net8.0/qwardratzahlen.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/refint/qwardratzahlen.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/qwardratzahlen.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/obj/Debug/net8.0/ref/qwardratzahlen.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmyXVxZofRJiwSQxAmLhNu8I2VhUlMWaL636pCg6gtXRnWIOwmciQv59GWELFxk++7Vk/SDCphl5frRM4eTqgA==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/qwardratzahlen/qwardratzahlen.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

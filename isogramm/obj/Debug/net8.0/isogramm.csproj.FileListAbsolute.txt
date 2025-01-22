@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/bin/Debug/net8.0/isogramm
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/bin/Debug/net8.0/isogramm.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/bin/Debug/net8.0/isogramm.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/bin/Debug/net8.0/isogramm.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/bin/Debug/net8.0/isogramm.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/refint/isogramm.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/isogramm.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/obj/Debug/net8.0/ref/isogramm.dll

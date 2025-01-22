@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqgniOTAxkVs6f+U0f8CLKqUOhklrx/cOT1jUIeWaj7WTI+CAOu41Udl/iLuMa6T3267BV/92Hhe+/FPSr6UXA==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/palindrome.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

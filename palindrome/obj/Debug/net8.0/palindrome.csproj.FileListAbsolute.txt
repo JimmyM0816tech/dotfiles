@@ -1,0 +1,14 @@
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/bin/Debug/net8.0/palindrome
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/bin/Debug/net8.0/palindrome.deps.json
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/bin/Debug/net8.0/palindrome.runtimeconfig.json
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/bin/Debug/net8.0/palindrome.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/bin/Debug/net8.0/palindrome.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfoInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfo.cs
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.csproj.CoreCompileInputs.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/refint/palindrome.dll
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.pdb
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/palindrome.genruntimeconfig.cache
+/home/uwu/Dokumente/projekte/c#/praktikum/palindrome/obj/Debug/net8.0/ref/palindrome.dll

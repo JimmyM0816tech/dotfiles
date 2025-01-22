@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrXNF46IVwu/iZJnxaiT8uU0HcCra5G++7zZH17dqtIUZOvdj1RkhNZV7YsoYSy2g4B4xjEGSKTlkMLHOE044A==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/isogramm/isogramm.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

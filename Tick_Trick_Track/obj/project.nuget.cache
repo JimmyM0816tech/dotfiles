@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyC74O7tMh/Mdld10gGOhqUm23nE3JyfjdMz0C4ZcC6fuDlJQJwy3ncnf+JmCeHG6QbcnZB1zQsD93kJ+uI12A==",
+  "success": true,
+  "projectFilePath": "/home/uwu/Dokumente/projekte/c#/praktikum/Tick_Trick_Track/Tick_Trick_Track.csproj",
+  "expectedPackageFiles": [
+    "/home/uwu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
